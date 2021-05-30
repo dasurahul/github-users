@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+input {
+  height: 30px;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid #eee;
+  outline: none;
+}
+
+.search-btn {
+  background-color: blue;
+  color: white;
+  border: none;
+}
